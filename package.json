@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is simple code for sleep putting your machine into sleep",
   "main": "App.js",
+  "bin": {
+    "suspend-cli": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
