@@ -1,7 +1,7 @@
 # SUSPEND-CLI
 > This is simple code for sleep putting your machine into sleep
 
-Quick use 
+# Quick use 
 ``npx suspend-cli``
 
 # Installation
